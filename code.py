@@ -15,7 +15,7 @@ def get_classificaton(ratio):
 		toret="Round"
 	toret="("+toret+")"
 	return toret
-#rnjn
+#rice
 print "Starting"
 img = cv2.imread('rice.png',0)#load in greyscale mode
 
